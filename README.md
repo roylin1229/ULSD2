@@ -1,6 +1,6 @@
 # Unified Line Segment Detection and Description (ULSD)
 
-Welcome to the GitHub repository for the **Unified Line Segment Detection and Description (ULSD)** project, as presented at the **IEEE International Conference on Multimedia and Expo (ICME) 2025** in Nantes, France. This repository will host the official implementation of our work once the journal version of our conference paper is accepted.
+Welcome to the GitHub repository for the **Unified Line Segment Detection and Description (ULSD)** project, as accepted by the **IEEE International Conference on Multimedia and Expo (ICME) 2025** in Nantes, France. This repository will host the official implementation of our work once the journal version of our conference paper is accepted.
 
 ## 📄 Paper Information
 
