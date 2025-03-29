@@ -22,7 +22,7 @@ If you find our work useful in your research, please consider citing our paper:
 ```bibtex
 @inproceedings{lin2025unified,
   title={Unified Line Segment Detection and Description},
-  author={Lin, X. and Zhou, Y. and Yang, L. and Long, Z. and Liu, Y. and Zhu, C.},
+  author={Lin, X. and Zhou, Y. and Long, Z. and Liu, Y. and Yang, L. and Zhu, C.},
   booktitle={IEEE International Conference on Multimedia and Expo (ICME)},
   year={2025},
   location={Nantes, France}
